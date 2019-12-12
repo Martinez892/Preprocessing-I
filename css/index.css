@@ -53,3 +53,27 @@
     font-size: 26px;
     font-family: "Abril Fatface";
 }
+
+.second{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+
+.third{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+
+.fourth{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+
+.copyright{
+    text-align: center;
+    margin-top: 6%;
+    background: gray;
+}
